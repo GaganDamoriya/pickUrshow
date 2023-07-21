@@ -11,7 +11,7 @@ import Header from "./component/header/Header";
 import Footer from "./component/footer/Footer";
 import PageNotFound from "./pages/404/PageNotFound";
 import Details from "./pages/details/Details";
-import Explore from "./pages/explore/explore";
+import Explore from "./pages/explore/Explore";
 
 function App() {
   const dispatch = useDispatch();
